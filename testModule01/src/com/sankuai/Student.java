@@ -5,4 +5,6 @@ public class Student {
     private  int age;
     private  int t1;
     private  int t2;
+    private  int t3;
+    private  int t4;
 }
