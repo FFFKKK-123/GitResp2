@@ -2,5 +2,5 @@ package com.sankuai;
 
 public class Teach {
     private String teacherName;
-    private int Sources;
+    private int Sources_clone;
 }
